@@ -1,0 +1,7 @@
+
+
+fn main() -> int {
+    let message: string = "hello world!";
+    print(message);
+    return 0;
+}

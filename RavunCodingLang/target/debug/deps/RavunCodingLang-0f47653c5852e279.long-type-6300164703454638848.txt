@@ -1,0 +1,1 @@
+Result<&semantics::symbol_table::Symbol, semantics::error::SemanticError>
